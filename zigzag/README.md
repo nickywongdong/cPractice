@@ -1,0 +1,1 @@
+Given an input array, order the array such that the largest number will come first, and the smallest number will come next. Have this continue sequentially without repeating already seen numbers. Example: Given input of array (25, 8, 2, -2, 25, 6, 4) output the following: (25, -2, 25, 8, 2, 6, 4)
